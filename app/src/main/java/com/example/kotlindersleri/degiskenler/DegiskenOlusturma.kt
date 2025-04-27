@@ -46,7 +46,7 @@ fun main (){
         println("kod2 nulldur.")
     } */
 
-    /// ikinci ders
+
 
 
 
